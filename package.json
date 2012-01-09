@@ -1,6 +1,6 @@
 {
   "name":        "node-ansi-color",
-  "version":     "0.0.1",
+  "version":     "0.0.2",
   "description": "A Node module for using ANSI colors easily.",
   "keywords":    ["ansi", "color", "terminal", "console"],
   "bugs": {
