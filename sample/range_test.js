@@ -1,12 +1,9 @@
-/*
- * -*- coding: utf-8 -*-
- *
- * Copyright (c) 2012 hnagato <hnagato@gmail.com> All rights reserved.
- */
+#!/usr/bin/env node
+// -*- coding: utf-8 -*-
 
-var assert = require('assert'),
-    range  = require('../lib/range')
-;
+var assert = require('assert');
+var range  = require('../lib/range');
+
 
 console.log('Testing module lib/range.js...');
 
