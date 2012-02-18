@@ -21,5 +21,5 @@
 	    .blue().underline().apply(/https:\/\/\S+/));
 
 
-![result](http://gyazo.com/a9cc512129e3622ad09e30f555642ddf.png?1329570127)
+![result](https://github.com/hnagato/node-ansi-color/raw/master/img/ss.png)
 
