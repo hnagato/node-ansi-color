@@ -6,13 +6,12 @@
   "bugs": {
     "url": "https://github.com/hnagato/node-ansi-color/issues"
   },
-  "author":       "hnagato <hnagato@gmail.com> (http://hnagato.com/)",
+  "author":      "hnagato <hnagato@gmail.com> (http://hnagato.com/)",
   "contributors": [],
   "main":        "./lib/ANSIColor",
   "directories": {
-    "doc":      "./doc",
-    "examples": "./examples",
-    "lib":      "./lib"
+    "test":      "./test",
+    "lib":       "./lib"
   },
   "repository": {
     "type": "git",
